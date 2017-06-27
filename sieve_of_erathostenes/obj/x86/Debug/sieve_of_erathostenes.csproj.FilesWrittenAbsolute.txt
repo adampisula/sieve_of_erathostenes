@@ -1,0 +1,5 @@
+/home/adampisula/Projects/sieve_of_erathostenes/sieve_of_erathostenes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/adampisula/Projects/sieve_of_erathostenes/sieve_of_erathostenes/bin/Debug/sieve_of_erathostenes.exe.mdb
+/home/adampisula/Projects/sieve_of_erathostenes/sieve_of_erathostenes/bin/Debug/sieve_of_erathostenes.exe
+/home/adampisula/Projects/sieve_of_erathostenes/sieve_of_erathostenes/obj/x86/Debug/sieve_of_erathostenes.exe
+/home/adampisula/Projects/sieve_of_erathostenes/sieve_of_erathostenes/obj/x86/Debug/sieve_of_erathostenes.exe.mdb
